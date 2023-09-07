@@ -1,0 +1,7 @@
+train: /home/liu/Desktop/VOCData/ImageSets/train.txt
+val: /home/liu/Desktop/VOCData/ImageSets/val.txt
+
+
+nc: 1
+
+names: [powdery mildew]
